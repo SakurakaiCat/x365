@@ -10,6 +10,6 @@
 [submodule "x365-mobile"]
 	path = x365-mobile
 	url = https://github.com/SakurakaiCat/x365-mobile.git
-[submodule "365vpn-android"]
-	path = 365vpn-android
-	url = https://github.com/SakurakaiCat/365vpn-android.git
+[submodule "x365-android"]
+	path = x365-android
+	url = https://github.com/SakurakaiCat/x365-android.git
