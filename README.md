@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/open-x365.svg" alt="Open X365" width="460">
+</div>
+
 # x365
 
 x365 是一套基于 X365 协议的开源 VPN 客户端集合（monorepo，通过
